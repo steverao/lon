@@ -7,7 +7,7 @@ This is a Business Intelligence Data Visualization system based on multiple data
 <tr>
 
 <td><b>Chinese Documentation:</b></td>
-<td><a href="resources/README.cn.md">中文文档</a></td>
+<td><a href="resources/README.CN.md">中文文档</a></td>
 
   </tr>
 
@@ -19,15 +19,15 @@ Next, the core functions of the system are demonstrated through a set of animati
 
 - Login system
 
-  <div align="center"><img src="document-illustration/login.gif" width="80%"/></div>
+  <div align="center"><img src="document-illustration/login.min.gif" width="80%"/></div>
 
 - Connect data source and import data
 
-  <div align="center"><img src="document-illustration/dataset.gif" width="80%"/></div>
+  <div align="center"><img src="document-illustration/dataset.min.gif" width="80%"/></div>
 
 - Data visualization
 
-  <div align="center"><img src="document-illustration/paint.gif" width="80%"/></div>
+  <div align="center"><img src="document-illustration/paint.min.gif" width="80%"/></div>
 
 
 

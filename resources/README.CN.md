@@ -10,15 +10,15 @@
 
 - 登录模块
 
-  <div align="center"><img src="../document-illustration/login.gif" width="80%"/></div>
+  <div align="center"><img src="../document-illustration/login.min.gif" width="80%"/></div>
 
 - 连接数据源并导入数据
 
-  <div align="center"><img src="../document-illustration/dataset.gif" width="80%"/></div>
+  <div align="center"><img src="../document-illustration/dataset.min.gif" width="80%"/></div>
 
 - 数据可视化
 
-  <div align="center"><img src="../document-illustration/paint.gif" width="80%"/></div>
+  <div align="center"><img src="../document-illustration/paint.min.gif" width="80%"/></div>
 
 
 
