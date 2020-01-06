@@ -1,6 +1,6 @@
 # Business Intelligence Data Visualization
 
-This is a Business Intelligence Data Visualization system based on multiple data sources. Generally, rules or information mined in big data are stored in database, and them are visualized through a visualization platform. It is such a visualization platform. It supports the visualization of data in a variety of databases, such as mysql, oracle, mongodb, and cassandra, etc.
+This is a Business Intelligence Data Visualization system based on multiple data sources. Generally, rules or information mined in big data are stored in database, and them are visualized through a visualization platform. It is such a visualization platform. It supports the visualization of data in a variety of data source, such as Mysql, Oracle, MongoDB, Cassandra, File, etc.
 
 <table>
 
